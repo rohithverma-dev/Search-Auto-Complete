@@ -11,7 +11,8 @@ body{
 h1{
     text-align: center;
     text-transform: uppercase;
-    color: aqua;
+    color: rgb(104, 255, 255);
+
 }
 
 .container{
@@ -29,7 +30,6 @@ input{
     border-radius: 5px;
     outline: none;
     border: navy;
-    /* color: #f5f5d8; */
     border: 2px solid rgba(255, 255, 255, 0.375);
 }
 
