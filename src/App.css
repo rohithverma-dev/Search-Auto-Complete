@@ -5,5 +5,49 @@
 
 body{
     padding: 30px;
-    background-color: #212121ec;
+    background-color: #000000e6;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: aqua;
+}
+
+.container{
+    margin: 70px 100px;
+}
+
+input{
+    padding: 12px 15px ;
+    width: 400px;
+    background-color: #130a44c5;
+    color: aqua ;
+    font-size: 17px;
+    letter-spacing: 3px;
+    margin-left: 20px;
+    border-radius: 5px;
+    outline: none;
+    border: navy;
+    /* color: #f5f5d8; */
+    border: 2px solid rgba(255, 255, 255, 0.375);
+}
+
+.box{
+    background-color: rgb(176, 104, 10);
+    background-color: rgb(69, 4, 4);
+    margin: 10px 0;
+    border-radius: 10px;
+    color: white;
+    padding: 10px 20px;
+    width: 420px;
+    margin-left: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.411);
+}
+
+.name{
+    font-size: 18px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.336);
+    padding-bottom: 4px;
 }
